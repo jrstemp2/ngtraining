@@ -1,0 +1,9 @@
+Steps to get Angular running:
+
+Repair Installation of NodeJS. 
+
+Install Angular in bash:
+npm install -g @angular/cli
+
+certificat error. Run this:
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
